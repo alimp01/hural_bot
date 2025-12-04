@@ -1,0 +1,9 @@
+# requirements.txt
+aiogram==3.13.1
+google-api-python-client==2.111.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.2.0
+google-auth==2.35.0
+apscheduler==3.10.4
+python-dotenv==1.0.1
+asyncio
